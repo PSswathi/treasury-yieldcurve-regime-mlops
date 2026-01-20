@@ -1,4 +1,3 @@
-import pandas as pd
 
 def to_monthly(df, col, how="last"):
     df = df.dropna().copy()

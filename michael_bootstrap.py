@@ -1,5 +1,4 @@
-﻿import os
-from pathlib import Path
+﻿from pathlib import Path
 from textwrap import dedent
 
 ROOT = Path(__file__).parent
